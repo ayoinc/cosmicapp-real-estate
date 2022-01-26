@@ -1,4 +1,6 @@
 # Real Estate Website Template
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/f057652e-7984-429a-b122-c40610414753.svg?orgId=666444378491)](https://app.soluble.cloud/repos/details/github.com/ayoinc/cosmicapp-real-estate?orgId=666444378491)  
 ![Cosmic JS Real Estate Website](https://cosmicjs.imgix.net/b5947f60-6d53-11e6-b581-890a92317c6c-pool.jpg?w=500)
 
 This real estate website template satisfies some common real estate website requirements including dynamic pages, listing management, blog articles, author management, SEO ability, contact form and website search.  Built using [Node.js](https://nodejs.org/en/) for the server, [Bootstrap](http://getbootstrap.com/) for the frontend framework and [Cosmic JS](https://cosmicjs.com/) for the CMS API.
